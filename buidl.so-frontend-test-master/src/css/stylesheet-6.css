@@ -1,0 +1,179 @@
+
+
+/* ----> Funding Pool and Grants ---> */
+
+.currency{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.highlighted-dollar-box{
+    background: rgba(21, 128, 61, 0.1);
+    border-radius: 5px;
+    text-align: left;
+    padding: 18px 24px 2px;
+}
+
+.container >.highlighted-dollar-box > .label{
+    margin: 20px 40px;
+    align-items: center;
+}
+
+.highlighted-dollar-box > .label > .m-r-10-1{
+    /* margin-left: 25%; */
+    align-items: center;
+}
+
+.highlighted-dollar-box > .label > .m-r-10-2{
+    margin-left: 30%;
+    align-items: center;
+}
+
+
+.highlighted-dollar-box > p{
+    margin: 20px 20px;
+    text-align: center;
+    /* font-size: 20px; */
+}
+
+.row-element{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    column-gap: 20px;
+} 
+/* -------->  First Section fo class = Layout__region--first*/
+
+
+.layout__region--first > .block-views-blockprograms-block-9 > h2{
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    color: rgb(79, 73, 73);
+    font-family: "gilroy-regular";
+}
+
+/* ---->  Second Section of class= layout__region--second  ------>*/
+
+.block-views-blockprograms-block-14{
+    width: 25%;
+    margin-left: 0;
+}
+
+
+.view-display-id-block_3 > .view-content{
+    margin: 40px 40px 0 auto;
+}
+
+.form-group > .js-view-dom-id-3c562351b3b34dd5cff77d48dc144d91a9b2a44e218a7afd2de04eb0a0792857 > .view-content{
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+.view-display-id-block_14 > .view-content > .btn {
+    font-size: 80px;
+}
+
+
+.view-display-id-block_16 > .view-content{
+    font-size: 15px;
+}
+
+.view-display-id-block_9> .view-content{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+/* ------->  Mentors Session   ------> */
+
+.program-view-mentor-profile .view-content{
+    display: grid;
+}
+
+.program-view-mentor-profile {
+/* border-radius: 100%; */
+    max-width: 300px;
+    aspect-ratio: 1;
+    min-width: 150px;
+    width: 220px;
+    overflow: hidden;
+    margin: auto auto auto auto;
+}
+
+.program-view-mentor-profile > img{
+    width: 100%;
+    object-fit: cover;
+
+}
+
+.program-view-mentor-profile + h4{
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .block-views-blockprograms-block-1{
+
+}
+
+.block-views-blockprograms-block-2{
+
+}
+
+.block-views-blockprograms-block-3{
+
+} */
+
+/* .layout__region--third{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+}
+
+.layout__region--third .view-content{
+    height: 200px;
+}
+.highlighted-box .box-green{
+    height: 200px;
+} */
